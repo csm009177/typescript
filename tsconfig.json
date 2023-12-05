@@ -1,7 +1,12 @@
 {
   "compilerOptions": {
-      "target": "es5",
-      "module": "commonjs",
-      "strict": true
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "module": "es6",
+    "target": "es5",
+    "allowJs": true,
+    "moduleResolution": "Node", // 모듈 해석 Node
+    "esModuleInterop": true, // commonJS 모듈을 ES6로 import
+      "sourceMap": true, // 디버깅 맵
   }
 }

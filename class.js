@@ -7,7 +7,9 @@ class Person {
 }
 // 'Person' 클래스의 인스턴스를 생성하고 이름을 "8"으로 초기화합니다.
 const p = new Person("8");
+console.log(p);
+console.log(typeof (p));
 // 'Person' 클래스의 인스턴스를 생성하고 이름을 "9"으로 초기화합니다.
 const k = new Person("9");
-console.log(p);
 console.log(k);
+console.log(typeof (k));

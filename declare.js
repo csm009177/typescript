@@ -1,4 +1,4 @@
-var variation = 10;
-var greeting = "people greeting";
+"use strict";
+let variation = 10;
+const greeting = "people greeting";
 console.log(variation, greeting);
-//# sourceMappingURL=declare.js.map

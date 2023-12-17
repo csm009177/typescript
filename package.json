@@ -2,11 +2,7 @@
   "name": "typescript",
   "version": "1.0.0",
   "description": "",
-<<<<<<< HEAD
-  "main": "typescript-1-aftercomfile.js",
-=======
   "main": "declare.js",
->>>>>>> origin/prac
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -50,4 +50,4 @@ class Component {
 // 사용예시
 const myComponent = Component.create('div', {id:'example', style: {color:'red'}}, ['이것은 자바인가 타스인가']);
 const root = document.getElementById('root');
-root?.innerHTML = myComponent;
+root.innerHTML = myComponent;

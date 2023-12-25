@@ -1,4 +1,4 @@
-import FetchExample from './typescript-6-tsx';
+import FetchExample from './typescript-6-tsx.ts';
 // Props 라는 type 선언을 통해
 // 반드시 문자열로만 구성된 객체를 전달 받아야 함을 명시합니다
 
